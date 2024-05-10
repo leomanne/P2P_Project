@@ -263,7 +263,7 @@ handleCreateRoom: function (event) { // function to show the create game menu
         cell.classList.add("my-cell");
         cell.dataset.row = i;
         cell.dataset.col = j;
-  
+        //acawdawd
         // Create dropdown menu
         const dropdown = document.createElement("select");
         dropdown.addEventListener("change", (event) => {
